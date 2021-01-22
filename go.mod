@@ -3,7 +3,7 @@ module github.com/orange-cloudfoundry/bosh-cpi-go
 go 1.15
 
 require (
-	github.com/cloudfoundry/bosh-utils v0.0.0-20200926100154-fe1f0beb6a7d
+	github.com/cloudfoundry/bosh-utils v0.0.0-20210116100238-c508cff11a13
 	github.com/cppforlife/bosh-cpi-go v0.0.0-20180718174221-526823bbeafd
 	github.com/nxadm/tail v1.4.5 // indirect
 	github.com/onsi/ginkgo v1.14.1
